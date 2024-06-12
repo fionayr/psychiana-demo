@@ -7,3 +7,7 @@ Map,/map.html
 Timeline,/timeline.html
 Data,/data.html
 About,/about.html
+
+Timelines,,
+Full Timeline,/timeline.html,Timelines
+TimelineJS,/timelinejs.html,Timelines
